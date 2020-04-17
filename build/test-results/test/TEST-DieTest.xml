@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DieTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2020-04-17T13:50:42" hostname="admin1-ThinkCentre-M72e" time="0.029">
+  <properties/>
+  <testcase name="diceSides()" classname="DieTest" time="0.018"/>
+  <testcase name="probabilitiesSum()" classname="DieTest" time="0.002"/>
+  <testcase name="negativeProbabilities()" classname="DieTest" time="0.001"/>
+  <testcase name="diceProbabilities()" classname="DieTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
